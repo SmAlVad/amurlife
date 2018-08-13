@@ -98,7 +98,7 @@ function cyberchimps_slider_lite_page_options() {
 }
 
 // Action for Slider Lite
-add_action( 'slider_lite', 'cyberchimps_slider_lite_content' );
+// add_action( 'slider_lite', 'cyberchimps_slider_lite_content' );
 
 function cyberchimps_slider_lite_content() {
 	global $wp_query, $post;
