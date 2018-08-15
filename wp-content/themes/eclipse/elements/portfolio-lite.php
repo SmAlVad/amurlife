@@ -173,7 +173,7 @@ function cyberchimps_portfolio_lite_page_options() {
 }
 
 // Portfolio Lite element action
-add_action( 'portfolio_lite', 'cyberchimps_portfolio_lite_content' );
+// add_action( 'portfolio_lite', 'cyberchimps_portfolio_lite_content' );
 
 // Defining content of the portfolio-lite element
 function cyberchimps_portfolio_lite_content() {
