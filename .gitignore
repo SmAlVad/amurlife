@@ -8,6 +8,7 @@ wp-content/advanced-cache.php
 #Directories
 .idea/*
 node_modules/*
+logs/*
 wp-content/backup-db/*
 wp-content/backups/*
 wp-content/blogs.dir/*
