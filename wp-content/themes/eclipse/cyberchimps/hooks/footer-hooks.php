@@ -28,8 +28,7 @@ function cyberchimps_footer_credit() {
 				<footer class="site-footer row-fluid">
 					<div class="span6">
 						<div id="credit">
-
-
+                            <?= date("Y") ?>
 						</div>
 					</div>
 					<!-- Adds the afterfooter copyright area -->
